@@ -29,11 +29,11 @@ If you’re learning Python, you might find these codes useful as templates, ref
 # 📦 How to Use
 
 - Clone this repo
-  
+
 git clone https://github.com/your-username/repo-name.git
 
 - Navigate into it
-  
+
 cd repo-name
 
 - Run any script
